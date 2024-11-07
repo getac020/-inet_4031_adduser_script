@@ -1,9 +1,9 @@
 # INET4031 Add Users Script and User List
 
-# Program Description
+## Program Description
     This Python script automates the addition of multiple users and groups to a Linux system by reading data from an input file. 
 
-# Program Operation
+## Program Operation
     Follow the following steps to run the code. 
         1. make sure you have an input file with user data in the following format
             username:password:last_name:first_name:groups
