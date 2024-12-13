@@ -28,37 +28,16 @@ the following commands
 
 # Steps taken for assignment
 
-* Create a GitHub Repository for Storing Code:
-*     this is nested
-
--     Created a new GitHub repository named inet_4031_adduser_script.
-
-** Synchronized this repository to a local repository on an Ubuntu server.
-
-** Pushed local repo changes to the remote GitHub repo for synchronization.
-
-* Create the 'create-users.py' Script:
-
-** Navigated to the new repository directory.
-
-** Created the create-users.py file and added starter Python code to automate adding users and groups.
-
-* Create the 'create-users.input' File:
-
-** Created the create-users.input file containing user data.
-
-** Input file contained a colon-delimited list of usernames, passwords, last names, first names, and groups.
-
-* Create Users with the 'create-users.py' Script:
-
-** Ran the create-users.py script to process the input file and create user accounts.
-
-** Included mechanisms to skip specific users and handle incorrectly formatted lines.
-
-* Confirm the Users Have Been Created:
-
-** Verified user and group creation using command-line tools.
-
-** Checked for successful execution of the script by inspecting system files.
+* Created a new GitHub repository named inet_4031_adduser_script.
+* Synchronized this repository to a local repository on an Ubuntu server.
+* Pushed local repo changes to the remote GitHub repo for synchronization.
+* Navigated to the new repository directory.
+* Created the create-users.py file and added starter Python code to automate adding users and groups.
+* Created the create-users.input file containing user data.
+* Input file contained a colon-delimited list of usernames, passwords, last names, first names, and groups.
+* Ran the create-users.py script to process the input file and create user accounts.
+* Included mechanisms to skip specific users and handle incorrectly formatted lines.
+* Verified user and group creation using command-line tools.
+* Checked for successful execution of the script by inspecting system files.
 
 
