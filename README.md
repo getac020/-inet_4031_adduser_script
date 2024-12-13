@@ -30,7 +30,7 @@ the following commands
 
 * Create a GitHub Repository for Storing Code:
 
-- Created a new GitHub repository named inet_4031_adduser_script.
+-     Created a new GitHub repository named inet_4031_adduser_script.
 
 ** Synchronized this repository to a local repository on an Ubuntu server.
 
